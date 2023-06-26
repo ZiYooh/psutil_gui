@@ -1,0 +1,9 @@
+/.idea
+/__pycache__
+/venv
+*.exe
+*.bat
+*.log
+*.ico
+*.png
+test.py
